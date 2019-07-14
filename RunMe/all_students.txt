@@ -1,0 +1,24 @@
+anas
+pass
+cs
+4
+0
+cs100 phy100 SS101 cal_100 
+javaria
+happy
+cs
+4
+0
+cs100 mechanics phy100 modern_physics 
+Zainab
+alpha
+CS
+1.2
+0
+modern_physics 
+babloo
+bubbles
+cs
+0.01
+0
+cs100 

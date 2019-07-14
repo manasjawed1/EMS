@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1480656387 source:d:\zambeel clone\main.cpp
+	<iostream>
+	<vector>
+	<string>
+	<fstream>
+
+1481256559 source:d:\test1\main.cpp
+	<iostream>
+	<vector>
+	<string>
+	<fstream>
+	<sstream>
+
